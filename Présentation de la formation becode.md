@@ -32,3 +32,11 @@
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+
+![](http://i.imgur.com/60bts.gif)
+
+![](http://i.imgur.com/60bts.gif)
+
+![](http://i.imgur.com/60bts.gif)
+
+![](http://i.imgur.com/60bts.gif)
