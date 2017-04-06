@@ -25,7 +25,7 @@
 (https://thumbs.dreamstime.com/z/ing%C3%A9nieur-informaticien-travaillant-%C3%A0-la-console-cass%C3%A9e-43636505.jpg)
 
 
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+![Texte alternatif si l'image ne s'affiche pas](https://thumbs.dreamstime.com/z/ing%C3%A9nieur-informaticien-travaillant-%C3%A0-la-console-cass%C3%A9e-43636505.jpg"Titre optionnel")
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
