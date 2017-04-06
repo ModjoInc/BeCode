@@ -10,6 +10,16 @@
     que l’information transmise / l’histoire racontée soit intéressante, pertinent, correct et originale (dans le sens “personnel”, pas un copier-coller).
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Bonne information
-répétition
+* Bonne information
+* répétition
+* envie/Positive Attitude
+* communauté
+* créativité
+* logique
+* ambiance
+* collaboration
+* proactivité
+* écoute
+* projet
+* tuteur de (dé)Formation
 
