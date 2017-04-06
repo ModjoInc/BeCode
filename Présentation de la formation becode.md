@@ -22,7 +22,7 @@
 [Voici le site Zatras.com](http://zatras.com)
 
 
-(https://www.google.be/search?q=image+informaticien&client=ubuntu&hs=pt9&channel=fs&tbm=isch&imgil=_D-9khQp9Q2hiM%253A%253B3bp6NC3KSFfDEM%253Bhttp%25253A%25252F%25252Fwww.revue-banque.fr%25252Fmanagement-fonctions-supports%25252Farticle%25252Finformaticien&source=iu&pf=m&fir=_D-9khQp9Q2hiM%253A%252C3bp6NC3KSFfDEM%252C_&usg=__B66DU6EXzx-NWUiHBrr4MUd1sc4%3D)
+(https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjdmP-U94_TAhXMbBoKHVuIDFoQjRwIBw&url=https%3A%2F%2Ffr.dreamstime.com%2Fphoto-stock-ingnieur-informaticien-travaillant-la-console-casse-image43636505&psig=AFQjCNFlN__ScfuKu67gGz2UjHt-WSdPfA&ust=1491571549875703)
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
