@@ -1,2 +1,2 @@
 # BECODE
-# Environnement optimisé pour l'apprentissage
+## Environnement optimisé pour l'apprentissage
