@@ -1,6 +1,3 @@
-
-A [http://register.becode.org/partners/images/SmallLogo.png]
-
 [![IMAGE ALT TEXT HERE](http://register.becode.org/partners/images/SmallLogo.png)]
 
 
@@ -16,6 +13,8 @@ A [http://register.becode.org/partners/images/SmallLogo.png]
 ### Comment apprendre a  
 
 ### Comment apprendre a  
+
+A [http://register.becode.org/partners/images/SmallLogo.png]
 
 
 
