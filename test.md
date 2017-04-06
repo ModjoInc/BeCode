@@ -1,4 +1,6 @@
 
+A [http://register.becode.org/partners/images/SmallLogo.png]
+
 # BECODE
 ## Environnement optimisé pour l'apprentissage
 
