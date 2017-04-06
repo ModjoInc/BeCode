@@ -38,3 +38,6 @@ socio-professionnel
 ▶ des simulations d’entretiens
 ▶ ouverture des espaces de travail en dehors des temps de formation
 ▶ rétrospective formateur.rice.s (bilan hebdomadaire avec le groupe)
+
+http://www.becode.org
+http://www.wikipedia.org
