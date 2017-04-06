@@ -1,4 +1,4 @@
-<ul><li>Présentation de la formation becode</li></ul>
+- Présentation de la formation becode
 <ul><li>Présentation de la formation becode</li></ul>
 <ul><li>Présentation de la formation becode</li></ul>
 <ul><li>Présentation de la formation becode</li></ul>
