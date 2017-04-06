@@ -40,4 +40,7 @@ socio-professionnel
 ▶ rétrospective formateur.rice.s (bilan hebdomadaire avec le groupe)
 
 http://www.becode.org
+
 http://www.wikipedia.org
+
+suite du texte
