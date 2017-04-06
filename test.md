@@ -10,4 +10,6 @@
     que l’information transmise / l’histoire racontée soit intéressante, pertinent, correct et originale (dans le sens “personnel”, pas un copier-coller).
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Bonne information
+répétition
 
