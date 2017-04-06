@@ -22,7 +22,7 @@
 [Voici le site Zatras.com](http://zatras.com)
 
 
-(https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjdmP-U94_TAhXMbBoKHVuIDFoQjRwIBw&url=https%3A%2F%2Ffr.dreamstime.com%2Fphoto-stock-ingnieur-informaticien-travaillant-la-console-casse-image43636505&psig=AFQjCNFlN__ScfuKu67gGz2UjHt-WSdPfA&ust=1491571549875703)
+(https://thumbs.dreamstime.com/z/ing%C3%A9nieur-informaticien-travaillant-%C3%A0-la-console-cass%C3%A9e-43636505.jpg)
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
