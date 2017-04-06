@@ -11,6 +11,25 @@
 ### Présentation de la formation becode
 #### Présentation de la formation becode
 [Voici le site Zatras.com](http://zatras.com)
+
+
 [Voici le site Zatras.com](http://zatras.com)
+
+
 [Voici le site Zatras.com](http://zatras.com)
+
+
 [Voici le site Zatras.com](http://zatras.com)
+
+
+![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+
+
+![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+
+
+![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+
+
+![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+
