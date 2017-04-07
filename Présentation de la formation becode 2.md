@@ -15,6 +15,7 @@ La pré-formation ( Prairie) :
 2. Front-end
 3. Back-end
 4. Languages, outils et frameworks
+5. Insertion proféssionelle
 # Présentation de la formation becode
 ## Présentation de la formation becode
 ### Présentation de la formation becode
