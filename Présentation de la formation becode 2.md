@@ -3,8 +3,8 @@ Présentation de la formation BeCode
 Une formation qui mais en valeurs les notions de :
 - Hacker spirit
 - Autonomie
-- Persévérance
 - Débrouillardise
+- Persévérance
 1. Présentation de la formation becode
 2. Présentation de la formation becode
 3. Présentation de la formation becode
