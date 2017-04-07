@@ -25,6 +25,8 @@ La formation :
 #### Module 3. Back-end
 ##### Module 4. Insertion proféssionnelle
 
+Le lien vers site internet de BeCode
+
 [Voici le site becode.org](http://register.becode.org/)
 
 
