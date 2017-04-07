@@ -42,19 +42,5 @@ Le lien vers site internet de BeCode
 ![Texte alternatif si l'image ne s'affiche pas](https://niocode.com/wp-content/uploads/2017/03/html.jpg)
 
 
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+![](http://nickbriz.com/wired/images/diagram3.gif)
 
-
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
-
-
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
-
-
-![](http://i.imgur.com/60bts.gif)
-
-![](http://i.imgur.com/60bts.gif)
-
-![](http://i.imgur.com/60bts.gif)
-
-![](http://i.imgur.com/60bts.gif)
