@@ -39,7 +39,7 @@ Le lien vers site internet de BeCode
 [Voici le site becode.org](http://register.becode.org/)
 
 
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+![Texte alternatif si l'image ne s'affiche pas](https://niocode.com/wp-content/uploads/2017/03/html.jpg)
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
