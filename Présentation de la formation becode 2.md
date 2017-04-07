@@ -16,10 +16,16 @@ La pré-formation ( Prairie) :
 3. Back-end
 4. Languages, outils et frameworks
 5. Insertion proféssionelle
-# Présentation de la formation becode
-## Présentation de la formation becode
-### Présentation de la formation becode
-#### Présentation de la formation becode
+
+La formation :
+
+
+# Introduction aux langagues de programation
+## Introction aux eco-systemes et aux cultures numériques
+### Médiation numériques
+#### Géstion de projet, méthodes agiles et organisation personelle
+##### Veille technologique
+###### Environement Linux et ligne de commande
 [Voici le site Zatras.com](http://zatras.com)
 
 
