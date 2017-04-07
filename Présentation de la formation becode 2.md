@@ -42,7 +42,7 @@ Le lien vers site internet de BeCode
 (https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=0ahUKEwiA8JjP_ZHTAhVGVRoKHdy3DjwQjRwIBw&url=http%3A%2F%2Fbradleyboehmke.github.io%2F2015%2F12%2Fscraping-html-text.html&psig=AFQjCNFI5eCiAanxk9WPn5zBHlW2ar4ITw&ust=1491642002929862 <img>)
 
 
-![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
+![](https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=0ahUKEwiA8JjP_ZHTAhVGVRoKHdy3DjwQjRwIBw&url=http%3A%2F%2Fbradleyboehmke.github.io%2F2015%2F12%2Fscraping-html-text.html&psig=AFQjCNFI5eCiAanxk9WPn5zBHlW2ar4ITw&ust=1491642002929862)
 
 
 ![Texte alternatif si l'image ne s'affiche pas](/chemin/image.jpg "Titre optionnel")
