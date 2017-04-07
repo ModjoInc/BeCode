@@ -19,13 +19,12 @@ La pré-formation ( Prairie) :
 
 La formation :
 
+# Module 0. Prairie
+## Module 1. Introduction
+### Module 2. Front-end
+#### Module 3. Back-end
+##### Module 4. Insertion proféssionnelle
 
-# Introduction aux langagues de programation
-## Introction aux eco-systemes et aux cultures numériques
-### Médiation numériques
-#### Géstion de projet, méthodes agiles et organisation personelle
-##### Veille technologique
-###### Environement Linux et ligne de commande
 [Voici le site Zatras.com](http://zatras.com)
 
 
