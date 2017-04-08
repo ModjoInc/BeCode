@@ -2,7 +2,7 @@
 
 # Becode
 ## Un environnement Optimisé Pour l'Apprentissage
-=================================================================================================================================
+======
     ###Instructions:
     une liste à puces
     une liste numérotée
@@ -12,7 +12,7 @@
     insertion d’une image animée
     que l’information transmise / l’histoire racontée soit intéressante, pertinent, 
     correct et originale (dans le sens “personnel”, pas un copier-coller).
----------------------------------------------------------------------------------------------------------------------------------
+------
 
 # La Pédagogie
 La pédagogie BeCode.org (par Simplon.co) repose sur ​ une pédagogie par projets​ et sur
