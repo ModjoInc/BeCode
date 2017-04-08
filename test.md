@@ -1,8 +1,8 @@
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle.png)
 
-Alt-H1 Becode
+# Becode
 ## Un environnement Optimisé Pour l'Apprentissage
-
+=================================================================================================================================
     ###Instructions:
     une liste à puces
     une liste numérotée
