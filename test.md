@@ -1,4 +1,4 @@
-![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle.png)
+![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 # Becode
 ## Un environnement Optimisé Pour l'Apprentissage
 ### Instructions:
