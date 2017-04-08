@@ -1,27 +1,18 @@
-# Becode
+![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle.png)
+
+Alt-H1 Becode
 ## Un environnement Optimisé Pour l'Apprentissage
 
+    ###Instructions:
     une liste à puces
     une liste numérotée
     4 niveaux de titres
     des liens
     insertion d’une image statique
     insertion d’une image animée
-    que l’information transmise / l’histoire racontée soit intéressante, pertinent, correct et originale (dans le sens “personnel”, pas un copier-coller).
+    que l’information transmise / l’histoire racontée soit intéressante, pertinent, 
+    correct et originale (dans le sens “personnel”, pas un copier-coller).
 ---------------------------------------------------------------------------------------------------------------------------------
-
-* Bonne information
-* répétition
-* envie/Positive Attitude
-* communauté
-* créativité
-* logique
-* ambiance
-* collaboration
-* proactivité
-* écoute
-* projet
-* tuteur de (dé)Formation
 
 # La Pédagogie
 La pédagogie BeCode.org (par Simplon.co) repose sur ​ une pédagogie par projets​ et sur
