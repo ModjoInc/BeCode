@@ -17,7 +17,7 @@ On passe d'une relation classique entre le professeur, l'élève et la matière 
 
 ## Les valeurs de BeCode
 
-![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
+![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle3.png)
 
 
 ##### Les Partenaires de BeCode
