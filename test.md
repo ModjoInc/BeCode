@@ -1,18 +1,23 @@
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 
-# Becode |
+# Becode
 <!-- # Becode -->
 ## Un environnement Optimisé Pour l'Apprentissage
-### Instructions:
-* une liste à puces
-* une liste numérotée
-* 4 niveaux de titres
-* des liens
-* insertion d’une image statique
-* insertion d’une image animée
-* que l’information transmise / l’histoire racontée soit intéressante, pertinent, correcte et originale (dans le sens “personnel”, pas un copier-coller).
+### Qu'est ce que BeCode?
+> BeCode est une jeune entreprise en pleine expansion qui a pour vocation de réconcilier le marché de l'emploi et la filière de la formation.
+Beaucoup trop souvent, le décalage qui existe entre les offres de formation et la réalité du terrain de l'emploi amène de nombreux étudiants à décrocher, à se désintéreser ou à se retrouver dans des filières congestionnées par un nombre de candidats trop élevé.
+L'une des ambition de BeCode est donc de réconcilier la formation et le professionnel.
+### Environenemnt Optimisé?
+> Créer les meilleures conditions pour cette réconciliation passe notamment par une refonte totale de la façon de penser l'apprentissage. 
+On passe d'une relation classique entre le professeur, l'élève et la matière (dans laquelle l'élève est peu, voire pas du tout, acteur) vers une relation de complémentarité entre ces trois entités.
 
-Une formation qui mais en valeurs les notions de :
+
+
+
+
+
+
+Une formation qui met en valeurs les notions de :
 
 - Hacker spirit
 - Autonomie
@@ -64,4 +69,14 @@ Les valeurs :
 
 
 
-' <Dévelopeur Team Habib, Geoffrey, Santi, Jounaid.>'
+##### Dévelopeur Team:
+Geoffrey @creageo
+Santiago @GitSanty
+jounaid @Joun27
+Habib @ModjoInc
+
+```javascript
+<script type="text/javascript">
+    alert("Hello!");
+ </script> 
+```
