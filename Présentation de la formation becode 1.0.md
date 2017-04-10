@@ -1,17 +1,17 @@
 ![](https://media.licdn.com/media/AAEAAQAAAAAAAAkvAAAAJDAyNzk3ODlhLWU0MGYtNDFjMy05YzJiLTVjMjQ5ZjQ1YjlkMw.png)
 
-Présentation de la formation BeCode
+> Présentation de la formation BeCode
 
 ![](http://www.gif.ovh/french-gif/Informaticien%20Gif/Informaticien%20Gif%20(23).gif)
 
-Une formation qui mais en valeurs les notions de :
+> Une formation qui mais en valeurs les notions de :
 
 - Hacker spirit
 - Autonomie
 - Débrouillardise
 - Persévérance
 
-Présentation du programme BeCode
+> Présentation du programme BeCode
 
 La pré-formation ( Prairie) :
 
@@ -29,7 +29,7 @@ La formation :
 #### Module 3. Back-end
 ##### Module 4. Insertion proféssionnelle
 
-Quelque valeurs utiles a l'apprentissage
+> Quelque valeurs utiles a l'apprentissage
 
 Les valeurs :
 
@@ -42,7 +42,7 @@ Les valeurs :
 
 ![](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 
-Les liens vers des site internet en lien avec la formation de BeCode
+> Les liens vers des site internet en lien avec la formation de BeCode
 
 Les liens :
 
@@ -63,4 +63,4 @@ Les liens :
 
 ![](http://i.imgur.com/epaVROW.gif)
 
-Dévelopeur : Team Habib, Geoffrey, Santiago, Jounaid.
+Dévelopeur : Team Habib, Geoffrey, Santi, Jounaid.
