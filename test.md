@@ -1,5 +1,7 @@
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
-# Becode
+
+# Becode |
+<!-- # Becode -->
 ## Un environnement Optimisé Pour l'Apprentissage
 ### Instructions:
 * une liste à puces
@@ -10,26 +12,56 @@
 * insertion d’une image animée
 * que l’information transmise / l’histoire racontée soit intéressante, pertinent, correcte et originale (dans le sens “personnel”, pas un copier-coller).
 
-### La Pédagogie
+Une formation qui mais en valeurs les notions de :
 
-La pédagogie BeCode.org (par Simplon.co) repose sur une pédagogie par projets et sur une pédagogie active, c’est à dire sur :
-* des apports théoriques liés à la mise en pratique
-* des apprenant.e.s qui sont moteur des apprentissages (reverse mentoring, learning
-by doing)
-* un co-apprentissage (projets collectifs, encouragement de l’entraide)
-Elle est également centrée sur l’adaptation aux apprenant.e.s :
-* une équipe pluridisciplinaire : expertise technique et pédagogique et chargé du suivi
-socio-professionnel
-* des rendez-vous pédagogiques individuels réguliers
-* ateliers de soutien
-* des simulations d’entretiens
-* ouverture des espaces de travail en dehors des temps de formation
-* rétrospective formateur.rice.s (bilan hebdomadaire avec le groupe)
+- Hacker spirit
+- Autonomie
+- Débrouillardise
+- Persévérance
 
-### Liens Utiles
+Présentation du programme BeCode
 
-http://www.becode.org
+La pré-formation ( Prairie) :
 
-http://www.wikipedia.org
+1. Introduction
+2. Front-end
+3. Back-end
+4. Languages, outils et frameworks
+5. Insertion proféssionelle
 
-suite du texte
+La formation :
+
+# Module 0. Prairie
+## Module 1. Introduction
+### Module 2. Front-end
+#### Module 3. Back-end
+##### Module 4. Insertion proféssionnelle
+
+Quelque valeurs utiles a l'apprentissage
+
+Les valeurs :
+
+# De bonne sources d'informations
+## La répétitions des exercices
+# De la créativité
+## le travail de groupe
+# De l'autodiscipline
+## La motivation
+---
+> ##### Quelques liens vers des site internet en lien avec la formation de BeCode
+
+> [Voici le site becode.org](http://register.becode.org/)
+
+
+> [Voici le site github.com](https://github.com/)
+
+
+> [Voici le site ryver.com](https://ryver.com/)
+
+
+> [Voici le site google.be](https://www.google.be/)
+
+
+
+
+' <Dévelopeur Team Habib, Geoffrey, Santi, Jounaid.>'
