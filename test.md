@@ -8,17 +8,19 @@
 > **BeCode** est une jeune entreprise en pleine expansion qui a pour vocation de *réconcilier* le marché de l'emploi et la filière de la formation.
 Beaucoup trop souvent, le décalage qui existe entre les offres de formation et la réalité du terrain de l'emploi amène de nombreux étudiants à décrocher, à se désintéreser ou à se retrouver dans des filières congestionnées par un nombre de candidats trop élevé.
 L'une des ambition de BeCode est donc de **réconcilier** la formation et le professionnel.
+
 **BeCode** met en valeur les notions de:
 1. Hacker Spirit
 1. Autonomie
 1. Débrouillardise
 1. Persévérence
+
 ### Environnement Optimisé?
 > Créer les meilleures conditions pour cette réconciliation passe notamment par une refonte totale de la façon de penser l'apprentissage. 
 On passe d'une relation classique entre le professeur, l'élève et la matière (dans laquelle l'élève est peu, voire pas du tout, acteur) vers une relation de complémentarité entre ces trois entités.
 
-### Les valeurs de BeCode
-> Réflechir à un nouvel environnement suppose que l'on travaille à partir de **valeurs** qui vont être autant de phares dans la nuit pour les participant:
+### Philosophie du projet d'apprentissage
+> Réflechir à un nouvel environnement suppose que l'on travaille à partir de **valeurs** qui vont être autant de phares dans la nuit pour les participants. La première promotion a réfléchi en groupe à quels étaient les éléments clés d'un bon apprentissage et est parvenue à déterminer le profil suivant:
 
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 > :cloud: *de mots créé à partir des différentes perceptions qu'ont les participants de BeCode*
