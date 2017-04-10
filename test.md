@@ -20,19 +20,19 @@ On passe d'une relation classique entre le professeur, l'élève et la matière 
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 
 
-> ##### Les Partenaires de BeCode
+##### Les Partenaires de BeCode
 
-> ![](http://register.becode.org/images/telenet.png)[Telenet](http://telenet.be)
+![](https://github.com/ModjoInc/BeCode/blob/master/telenet.png)[Telenet](http://telenet.be)
 
-> ![](http://register.becode.org/images/orange.png)[Orange](https://orange.be)
+![](https://github.com/ModjoInc/BeCode/blob/master/orange.png)[Orange](https://orange.be)
 
-> ![](http://register.becode.org/images/4wings.png)[4 Wings Foundation](https://ryver.com/)
+![](https://github.com/ModjoInc/BeCode/blob/master/4wings.png)[4 Wings Foundation](https://ryver.com/)
 
-> ![](http://register.becode.org/images/degroof.png)[Degroof Petercam](https://www.facebook.com/becode.org/)
+![](https://github.com/ModjoInc/BeCode/blob/master/degroof.png)[Degroof Petercam](https://www.facebook.com/becode.org/)
 
-> ![](http://register.becode.org/images/simplon.png)[Simplon](http://simplon.co)
+![](https://github.com/ModjoInc/BeCode/blob/master/simplon.png)[Simplon](http://simplon.co)
 
-> ![](http://register.becode.org/images/maks.png)[MAKS](https://http://www.maksvzw.org/)
+![](https://github.com/ModjoInc/BeCode/blob/master/maks.png)[MAKS](https://http://www.maksvzw.org/)
 
 
 
