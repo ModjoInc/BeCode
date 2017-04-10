@@ -14,7 +14,7 @@ L'une des ambition de BeCode est donc de **réconcilier** la formation et le pro
 On passe d'une relation classique entre le professeur, l'élève et la matière (dans laquelle l'élève est peu, voire pas du tout, acteur) vers une relation de complémentarité entre ces trois entités.
 
 ### Les valeurs de BeCode
-Réflechir à un nouvel environnement suppose que l'on travaille à partir de **valeurs** qui vont être autant de phares dans la nuit pour les participant:
+> Réflechir à un nouvel environnement suppose que l'on travaille à partir de **valeurs** qui vont être autant de phares dans la nuit pour les participant:
 
 ![Les Valeurs de BeCode](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
 > *Wordle créé à partir des différentes perceptions qu'ont les participants de BeCode*
