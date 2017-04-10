@@ -1,3 +1,5 @@
+![](https://media.licdn.com/media/AAEAAQAAAAAAAAkvAAAAJDAyNzk3ODlhLWU0MGYtNDFjMy05YzJiLTVjMjQ5ZjQ1YjlkMw.png)
+
 Présentation de la formation BeCode
 
 ![](http://www.gif.ovh/french-gif/Informaticien%20Gif/Informaticien%20Gif%20(23).gif)
@@ -38,6 +40,8 @@ Les valeurs :
 # De l'autodiscipline
 ## La motivation
 
+![](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
+
 Les liens vers des site internet en lien avec la formation de BeCode
 
 Les liens :
@@ -59,4 +63,4 @@ Les liens :
 
 ![](http://i.imgur.com/epaVROW.gif)
 
-Dévelopeur : Team Habib, Geoffrey, Santi.
+Dévelopeur : Team Habib, Geoffrey, Santi, Jounaid.
