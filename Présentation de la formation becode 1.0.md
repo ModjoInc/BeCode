@@ -40,7 +40,7 @@ Les valeurs :
 # De l'autodiscipline
 ## La motivation
 
-![](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
+![](https://github.com/ModjoInc/BeCode/blob/master/wordle3.png)
 
 > Article sur BeCode dans la presse
 
