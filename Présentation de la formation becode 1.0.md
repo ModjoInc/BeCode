@@ -61,7 +61,7 @@ Les liens :
 [Voici le site ryver.com](https://ryver.com/)
 
 
-[Voici le site l'echo.be](http://www.lecho.be/)
+[Voici le site lecho.be](http://www.lecho.be/)
 
 
 ![](http://usabilitygeek.com/wp-content/uploads/2012/04/HTML-Guidelines-for-Usability-SEO.jpg)
