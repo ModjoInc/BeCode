@@ -63,4 +63,4 @@ Les liens :
 
 ![](http://i.imgur.com/epaVROW.gif)
 
-Dévelopeur : Team Habib, Geoffrey, Santi, Jounaid.
+Dévelopeur : Team Habib, Geoffrey, Santiago, Jounaid.
