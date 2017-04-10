@@ -25,7 +25,7 @@ On passe d'une relation classique entre le professeur, l'élève et la matière 
     alert("Hello!");
  </script> 
 ```
-![](http://www.iconarchive.com/download/i98812/elegantthemes/beautiful-flat-one-color/quote.ico)
+
 > JOUNAID: "*Becode est la voie qui nous permettra de comprendre davantage le monde qui nous entoure. L’expansion technologique que nous sommes tous en train de vivre ne s’arrête pas, au contraire. Etre formé à la compréhension de ce monde parallèle le plus tôt possible, nous permettra de rajouter, pourquoi pas, notre pierre à l’édifice, en développant nous même notre projet innovateur.*"
 
 > SANTI: "*Je suis surpris pour l'optimisme et l'énergie de mon groupe ainsi de tous les stagiaires de la promotion 1 à Bruxelles Central
@@ -33,7 +33,8 @@ chez BeCode. Jamais je n'ai travaillé avec Ubuntu, Github, linux non plus, je t
 J'espere apprendre tout ce qui est nécessaire pour developer mon projet, pour l'instant je suis en train de definir quelques
 aspects de mon projet.*"
 
-> Geoffrey
+> GEOFFREY: "*Je recherchai un opportunité de quitter le millieu ouvrier d'ou je viens, je pense l'avoir trouver a travers la formation BeCode, une formation courte et intense qui me permait d'apprendre un nouveau metier, un metier d'avenir et dans l'aire du temp, mes camarades et formateurs sont pros et en meme temp sympatique, j'espere etre a la hauteur pour finir avec succes ma formation et trouver du travail millieu informatique.*"
+
 ##### Dévelopeur Team:
 Geoffrey @creageo
 
