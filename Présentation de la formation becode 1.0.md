@@ -29,7 +29,7 @@ La formation :
 #### Module 3. Back-end
 ##### Module 4. Insertion proféssionnelle
 
-> Quelque valeurs utiles a l'apprentissage
+> Quelques valeurs utiles a l'apprentissage
 
 Les valeurs :
 
@@ -41,6 +41,12 @@ Les valeurs :
 ## La motivation
 
 ![](https://github.com/ModjoInc/BeCode/blob/master/wordle2.png)
+
+> Article sur BeCode dans la presse
+
+Articles :
+
+[Voici l'article dans L'Echo](http://www.lecho.be/entreprises/technologie/BeCode-une-fabrique-sociale-de-codeurs-en-mode-start-up/9881172)
 
 > Les liens vers des site internet en lien avec la formation de BeCode
 
@@ -55,7 +61,7 @@ Les liens :
 [Voici le site ryver.com](https://ryver.com/)
 
 
-[Voici le site google.be](https://www.google.be/)
+[Voici le site l'echo.be](http://www.lecho.be/)
 
 
 ![](http://usabilitygeek.com/wp-content/uploads/2012/04/HTML-Guidelines-for-Usability-SEO.jpg)
