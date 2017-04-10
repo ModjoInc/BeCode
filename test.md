@@ -8,7 +8,11 @@
 > **BeCode** est une jeune entreprise en pleine expansion qui a pour vocation de *réconcilier* le marché de l'emploi et la filière de la formation.
 Beaucoup trop souvent, le décalage qui existe entre les offres de formation et la réalité du terrain de l'emploi amène de nombreux étudiants à décrocher, à se désintéreser ou à se retrouver dans des filières congestionnées par un nombre de candidats trop élevé.
 L'une des ambition de BeCode est donc de **réconcilier** la formation et le professionnel.
-
+**BeCode** met en valeur les notions de:
+1. Hacker Spirit
+1. Autonomie
+1. Débrouillardise
+1. Persévérence
 ### Environnement Optimisé?
 > Créer les meilleures conditions pour cette réconciliation passe notamment par une refonte totale de la façon de penser l'apprentissage. 
 On passe d'une relation classique entre le professeur, l'élève et la matière (dans laquelle l'élève est peu, voire pas du tout, acteur) vers une relation de complémentarité entre ces trois entités.
@@ -25,7 +29,7 @@ On passe d'une relation classique entre le professeur, l'élève et la matière 
     alert("Hello!");
  </script> 
 ```
-
+![](https://github.com/ModjoInc/BeCode/blob/master/quote.ico)
 > JOUNAID: "*Becode est la voie qui nous permettra de comprendre davantage le monde qui nous entoure. L’expansion technologique que nous sommes tous en train de vivre ne s’arrête pas, au contraire. Etre formé à la compréhension de ce monde parallèle le plus tôt possible, nous permettra de rajouter, pourquoi pas, notre pierre à l’édifice, en développant nous même notre projet innovateur.*"
 
 > SANTI: "*Je suis surpris pour l'optimisme et l'énergie de mon groupe ainsi de tous les stagiaires de la promotion 1 à Bruxelles Central
@@ -35,14 +39,15 @@ aspects de mon projet.*"
 
 > GEOFFREY: "*Je recherchai un opportunité de quitter le millieu ouvrier d'ou je viens, je pense l'avoir trouver a travers la formation BeCode, une formation courte et intense qui me permait d'apprendre un nouveau metier, un metier d'avenir et dans l'aire du temp, mes camarades et formateurs sont pros et en meme temp sympatique, j'espere etre a la hauteur pour finir avec succes ma formation et trouver du travail millieu informatique.*"
 
-##### Dévelopeur Team:
-Geoffrey @creageo
-
-Santiago @GitSanty
-
-jounaid @Joun27
-
-Habib @ModjoInc
+> 
+##### Lu dans la Presse:
+[Article du 7 Avril 2017 paru dans l'Echo](http://www.lecho.be/entreprises/technologie/BeCode-une-fabrique-sociale-de-codeurs-en-mode-start-up/9881172)
+##### Développeur Team:
+![](http://www.gif.ovh/french-gif/Informaticien%20Gif/Informaticien%20Gif%20(23).gif)
+* Geoffrey @creageo : [Profil GitHub](https://github.com/creageo)
+- Santiago @GitSanty : [Profil GitHub](https://github.com/GitSanty)
++ jounaid @Joun27 : [Profil GitHub](https://github.com/Joun27)
+* Habib @ModjoInc : [Profil GitHub](https://github.com/ModjoInc)
 
 ![](https://scontent-bru2-1.xx.fbcdn.net/v/t31.0-8/15585290_386540095027862_462813526754655820_o.png?oh=8bfd8c8c4ba16934491fa27f2c76fffd&oe=5956577E)
 
