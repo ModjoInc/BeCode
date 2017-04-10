@@ -25,8 +25,15 @@ On passe d'une relation classique entre le professeur, l'élève et la matière 
     alert("Hello!");
  </script> 
 ```
-> Becode est la voie qui nous permettra de comprendre davantage le monde qui nous entoure. L’expansion technologique que nous sommes tous en train de vivre ne s’arrête pas, au contraire. Etre formé à la compréhension de ce monde parallèle le plus tôt possible, nous permettra de rajouter, pourquoi pas, notre pierre à l’édifice, en développant nous même notre projet innovateur.(Jounaid)
+![](http://www.iconarchive.com/download/i98812/elegantthemes/beautiful-flat-one-color/quote.ico)
+> JOUNAID: "*Becode est la voie qui nous permettra de comprendre davantage le monde qui nous entoure. L’expansion technologique que nous sommes tous en train de vivre ne s’arrête pas, au contraire. Etre formé à la compréhension de ce monde parallèle le plus tôt possible, nous permettra de rajouter, pourquoi pas, notre pierre à l’édifice, en développant nous même notre projet innovateur.*"
 
+> SANTI: "*Je suis surpris pour l'optimisme et l'énergie de mon groupe ainsi de tous les stagiaires de la promotion 1 à Bruxelles Central
+chez BeCode. Jamais je n'ai travaillé avec Ubuntu, Github, linux non plus, je trouve ça comme une barriere, mais chaque jour qui passe, je suis plus que jamais motivé et curieux pour découvrir tous les secrets cachés de une partie de la informatique.
+J'espere apprendre tout ce qui est nécessaire pour developer mon projet, pour l'instant je suis en train de definir quelques
+aspects de mon projet.*"
+
+> Geoffrey
 ##### Dévelopeur Team:
 Geoffrey @creageo
 
