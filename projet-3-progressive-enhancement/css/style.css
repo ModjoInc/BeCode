@@ -1,0 +1,170 @@
+/* Insertion polices avec Fontface
+@font-face {
+  font-family: "Playfair Display";
+  src: url("http://fonts.googleapis.com/css?family=Playfair+Display");
+}
+
+@font-face {
+  font-family: "Cookie";
+  src: url("http://fonts.googleapis.com/css?family=Cookie");
+}*/
+
+/*insertion police avec import*/
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Playfair+Display");
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  max-width: 90%;
+  background: -webkit-radial-gradient(rgb(217, 216, 246), rgb(65, 145, 224));
+  background: radial-gradient(rgb(217, 216, 246), rgb(65, 145, 224));
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
+
+header p {
+  background-color: yellow;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 2.4em;
+  font-weight: 400;
+  color: #303635;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 1.7em;
+  font-weight: normal;
+  color: #303635;
+}
+
+p, ul, q, a {
+  font-family: "Playfair Display", serif;
+  line-height: 1.2em;
+  font-size: 1.3em;
+  color: #2d2d2d;
+  text-align: justify;
+}
+
+em {
+  text-transform: uppercase;
+}
+
+* .bien {
+  color: green;
+}
+
+* .mal{
+  color: red;
+}
+
+a {
+  color: #41b7d8;
+  padding-bottom: .08em;
+  text-decoration: none;
+  border-bottom: .08em dotted rgba(65,183,216,0.5);
+}
+
+a:hover {
+  border-bottom: .08em solid #41b7d8;
+}
+
+a:visited {
+  color: rgba(65,183,216,0.3);
+}
+
+q {
+  border-left: #B44A4A 3px solid;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  font-size: 1.6em;
+  background-color: #e8e5e5;
+  padding-left: 30px;
+  line-height: 80px;
+}
+
+figure img, figcaption{
+  float: right;
+  display: inline-block;
+  margin: 20px 0px 0px 0px;
+  padding: 5px 0px 5px 20px;
+  width: 50%;
+}
+
+figure img:last-child {
+  float: left;
+  padding: 5px 20px 5px 0px;
+}
+
+figcaption {
+  padding: 0 0 0 20px;
+  font-family: "Playfair Display";
+  font-size: 0.9em;
+  clear: both;
+}
+
+table {
+  border: 1px solid #004dfa;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: #c7c7c7;
+}
+
+ul {
+  list-style-type: square;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.vil {
+  border-left: #004dfa 3px solid;
+}
+
+.ferm {
+  border-left: #272152 3px solid;
+}
+
+tr:nth-child(even) {
+  background-color: #c1c1c1;
+}
+
+li:first-child {
+  padding-left: 40px;
+  background-image: url("../img/bien.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+li:nth-child(2) {
+  padding-left: 40px;
+  background-image: url("../img/mal.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+li:nth-child(3) {
+  padding-left: 40px;
+  background-image: url("../img/chat.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+li:nth-child(4) {
+  padding-left: 40px;
+  font-weight: bold;
+}
